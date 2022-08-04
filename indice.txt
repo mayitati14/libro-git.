@@ -1,0 +1,5 @@
+
+[A[A[C[C[C[B[C[C[C[C[C[C[C[C[C[C[C indice.txt
+capitulo1: introduccion a git
+capitulo2 flujo de trabajo basico
+capitulo3:[A[D:[B[A [B[Aflujo de trabajo basico[B[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[D[Crepositorios remotos
